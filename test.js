@@ -1,0 +1,1 @@
+process.stdin.on('data', data => process.stdin.write('Output :'+ data));
